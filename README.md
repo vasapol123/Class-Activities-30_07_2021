@@ -1,5 +1,5 @@
 # Class Activities on 30 July 2021
-This class activities is prepared in partial fulfillment of the requirements for the Software Development Practice I subject which is a part of computer engineering curriculum in King Mongkut’s University of Technology North Bangkok—KMUTNB—Thailand.
+These class activities are prepared in partial fulfillment of the requirements for the Software Development Practice I subject which is a part of computer engineering curriculum in King Mongkut’s University of Technology North Bangkok—KMUTNB—Thailand.
 
 ## Task 7
 Write a C program that
