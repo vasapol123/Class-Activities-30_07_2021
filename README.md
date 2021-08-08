@@ -17,7 +17,7 @@ Write a C program that
 **Note:** Write C code for the quicksort algorithm in the source file 'qsort.c'
 and include it to your C project.
 
-##Task 9
+## Task 9
 Write a C program that behaves and produces the same output as the Python script given below:
 ```
 # convert an integer to a hex string
