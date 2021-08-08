@@ -13,6 +13,7 @@ Write a C program that
 * reads integer numbers from the text file 'data.txt' up to N numbers. 
 * sorts the numbers using the Quicksort algorithm.
 * saves the stored list of integers to the output file named 'data_sorted.txt'.
+
 **Note:** Write C code for the quicksort algorithm in the source file 'qsort.c'
 and include it to your C project.
 
