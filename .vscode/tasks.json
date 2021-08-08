@@ -7,7 +7,6 @@
             "args": [
                 "-g",
                 "${file}",
-                "${fileDirname}/qsort.c",
                 "-o",
                 "${fileDirname}/${fileBasenameNoExtension}"
             ],
